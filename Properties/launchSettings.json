@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "TransApplicationService": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
